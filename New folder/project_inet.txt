@@ -1,0 +1,81 @@
+Day-17
+---------
+URL:- https://demo.guru99.com/v4/
+
+User ID :	mngr409995
+Password : uqYmEsu
+
+STAGES/PHASES
+---------------------
+1) Implementation
+2) Execution
+3) Maintanance
+
+Maven
+pom.xml
+
+We can download dependencies from this site:-
+-------------------------------------------------------------
+https://mvnrepository.com/
+
+log4j
+--------------------
+log4.jar
+log4j.properties
+
+Assingment
+---------------
+1) Create new Maven project
+2) Update pom.xml
+3) Create folder structure
+4) Create page object class for login screen
+5) Create base class
+6) Create login test case
+7) Add logs to test case
+
+Day-18
+----------
+Read common values from properties file 
+
+config.properties
+ReadConfig.java
+
+BaseClass
+
+System.getProperty("user.dir")  ----> only in java classes
+
+./ ----> in java classes & in proprties 
+
+
+Run test case on desired browser
+-------------------------------------------
+XML file create for run testCase on desired browser
+
+Add extent report
+------------------------
+1) jars
+2) extent-config.xml
+3) lestener(Reporting.java)	--> Utility file 
+
+Day-19
+----------
+1) Data Driven Test
+---------
+Apache poi jars
+XLS file(test data)
+XLUtils.java
+
+@DataProvider
+
+New Test Case
+-------------------
+1) Page class
+2) test case
+
+Day-20
+----------
+
+
+
+
+

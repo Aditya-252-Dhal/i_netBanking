@@ -1,0 +1,24 @@
+Phase-1 : Implementation
+	Create Maven Project
+	Update pom.xml
+	Create Page Objects
+	Create Basic Test case
+	Add logs to test case
+	Read common values from properties file 
+	Run test case on desired browser
+	Add extent report 
+	Create Data Driven test case
+	Adding new test case
+
+Phase-2 : Execution 
+	Run test cases with Maven pom.xml
+	Run test cases through Maven CLI (Command Line Interface)
+	Run test cases using run.bat
+	Run test cases using Jenkins (using bat file)
+
+Phase-3: Maintenance
+	Creating repository in GITHUB
+	Commit the project code in local repository
+	Push the project code to GITHUB remote repository from local GIT repository
+
+
